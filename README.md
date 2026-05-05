@@ -53,4 +53,4 @@ Repositório com exercícios práticos do curso de Redes da Alura, utilizando Ci
 
 ## Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykFarias&layout=compact&langs_count=6)
+![Top Langs](https://readme-stats-one-beta.vercel.app/api/top-langs/?username=MaykFarias&layout=compact&langs_count=6)
